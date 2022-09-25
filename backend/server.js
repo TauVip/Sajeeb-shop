@@ -26,4 +26,4 @@ process.on('unhandledRejection', err => {
   server.close(() => process.exit(1))
 })
 
-// All Functional MERN stack E-commerce website Absolutely for beginners || Part 2 || 14:35 / 8:15:22
+// All Functional MERN stack E-commerce website Absolutely for beginners || Part 2 || 1:24:47 / 8:15:22
